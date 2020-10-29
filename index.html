@@ -44,7 +44,7 @@
         const newQuote = document.getElementById("newQuote");
         const tweet = document.getElementById("tweet");
         const getNewQuotes = () =>{
-            let rnum = Math.floor(Math.random()*100) ;
+            let rnum = Math.floor(Math.random()*1000) ;
             quotesData = realData[rnum];
             // console.log(realData[rnum].author);
             quotes.innerText = `${quotesData.text}`;
