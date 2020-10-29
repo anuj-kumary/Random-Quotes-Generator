@@ -116,7 +116,14 @@ body{
     transform: translate(-50%,-50%);
     width: 100%;
     font-size: 1.3rem;
-    background: cyan;
+    background: black;
+    color:crimson;
+}
+    
+.button:hover{
+    background-color: crimson;
+    color: black;
+}
     
 }
 
