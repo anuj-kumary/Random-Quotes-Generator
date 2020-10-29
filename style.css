@@ -103,7 +103,7 @@ body{
     left: 70%;
     -webkit-transform: translate(-50%,-50%);
     transform: translate(-50%,-50%);
-  
+    animation: rot 1s linear;
     font-size: 0.8rem;
 }
 
