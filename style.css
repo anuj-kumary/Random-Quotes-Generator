@@ -91,6 +91,7 @@ body{
     -webkit-transform: translate(-50%,-50%);
     transform: translate(-50%,-50%);
     width: 80%;
+    color: black;
     font-size: 1.3rem;
 }
 .author::before{
@@ -104,6 +105,7 @@ body{
     -webkit-transform: translate(-50%,-50%);
     transform: translate(-50%,-50%);
     animation: rot 1s linear;
+    color: black;
     font-size: 0.8rem;
 }
 
